@@ -9,10 +9,10 @@ On the whole dataset, those columns with vague column names are corrected.
 Finally, we generate a new dataset with all the average measures for each subject and activity type. The output file is called secTidySet.txt, and uploaded to this repository.
 
 Variables
-x_train
-y_train
-x_test
-y_test
-subject_train
+x_train,
+y_train,
+x_test,
+y_test,
+subject_train,
 subject_test contain the data from the downloaded files.
 
